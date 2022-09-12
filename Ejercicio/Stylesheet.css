@@ -1,0 +1,25 @@
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 24px;
+    width: 24vw;
+    height: 24vw;
+    color: yellow;
+    background-color: red;
+}
+div:hover{
+    background-color: blue;
+    color: black;
+}
+.diferente{
+    color: white;
+    background-color: black;
+}
+.diferente:hover{
+    background-color: yellow;
+    color: black;
+}
